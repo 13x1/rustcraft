@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/librustcraft/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/example/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/example-program/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bd6534a-ceb9-41fd-9ea3-02aa1c58b0e2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="NewLua" />
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/librustcraft" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="49cbh1kr" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hkYGqvloGqtxQqeEPOQrbpMJgJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cargo.Build `Run example (1)`.executor": "Run",
+    "Cargo.Build `Run example`.executor": "Run",
+    "Cargo.Build example-program [example-program].executor": "Run",
+    "Cargo.Build librustcraft [librustcraft].executor": "Run",
+    "Cargo.Expand librustcraft::dylib [librustcraft].executor": "Run",
+    "Cargo.Run example (1).executor": "Run",
+    "Cargo.Run example.executor": "Run",
+    "NIXITCH_NIXPKGS_CONFIG": "",
+    "NIXITCH_NIX_CONF_DIR": "",
+    "NIXITCH_NIX_OTHER_STORES": "",
+    "NIXITCH_NIX_PATH": "",
+    "NIXITCH_NIX_PROFILES": "",
+    "NIXITCH_NIX_REMOTE": "",
+    "NIXITCH_NIX_USER_PROFILE_DIR": "",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "<unknown>",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "20.1.0",
+    "javascript.nodejs.core.library.typings.version": "20.1.7",
+    "last_opened_file_path": "C:/Program Files/nodejs/node.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Program Files/nodejs/node",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "Z:\\JB\\RustRover\\plugins\\javascript-base\\jsLanguageServicesImpl\\external"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\rustcraft\librustcraft\lua\cc" />
+      <recent name="C:\git\rustcraft\librustcraft" />
+    </key>
+  </component>
+  <component name="RsExternalLinterProjectSettings">
+    <option name="runOnTheFly" value="true" />
+    <option name="tool" value="Clippy" />
+  </component>
+  <component name="RunManager" selected="Cargo.Run example (1)">
+    <configuration name="Build example-program [example-program]" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="build --package example-program --lib" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/example-program" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build librustcraft [librustcraft]" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="build --package librustcraft --lib" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/librustcraft" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Expand librustcraft::dylib [librustcraft]" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="expand --lib --color=always --theme=Dracula --tests dylib" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/librustcraft" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run example (1)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package example --bin example" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/example" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run example" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package example --bin example --release" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/example" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cargo.Build example-program [example-program]" />
+      <item itemvalue="Cargo.Expand librustcraft::dylib [librustcraft]" />
+      <item itemvalue="Cargo.Run example (1)" />
+      <item itemvalue="Cargo.Build librustcraft [librustcraft]" />
+      <item itemvalue="Cargo.Run example" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run example (1)" />
+        <item itemvalue="Cargo.Build example-program [example-program]" />
+        <item itemvalue="Cargo.Expand librustcraft::dylib [librustcraft]" />
+        <item itemvalue="Cargo.Run example" />
+        <item itemvalue="Cargo.Build librustcraft [librustcraft]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd6534a-ceb9-41fd-9ea3-02aa1c58b0e2" name="Changes" comment="" />
+      <created>1718139449651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718139449651</updated>
+      <workItem from="1718139450703" duration="41257000" />
+      <workItem from="1718545032936" duration="354000" />
+      <workItem from="1718545477352" duration="26055000" />
+      <workItem from="1718718923564" duration="21011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/example" />
+      <path value="$PROJECT_DIR$/example-program" />
+      <path value="$PROJECT_DIR$/librustcraft" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
